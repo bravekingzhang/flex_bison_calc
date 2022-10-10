@@ -7,7 +7,7 @@
 - make clean && make
 - ./calc
 
-###
+### 学到了啥
 - flex 做词法分析太方便了
 - bison 用来做语法分析比较好玩，对应的也有js的版本，可以了解下jison
 
