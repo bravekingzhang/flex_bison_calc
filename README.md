@@ -2,11 +2,10 @@
 写了一个简单的计算器项目
 
 ## 怎么运行
-git clone https://github.com/bravekingzhang/flex_bison_calc.git
-cd flex_bison_calc
-make clean && make
-
-./calc
+- git clone https://github.com/bravekingzhang/flex_bison_calc.git
+- cd flex_bison_calc
+- make clean && make
+- ./calc
 
 ###
 flex 做词法分析太方便了
